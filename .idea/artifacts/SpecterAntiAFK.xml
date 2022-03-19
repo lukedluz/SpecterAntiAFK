@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpecterAntiAFK">
+    <output-path>$PROJECT_DIR$/../../../SP Server/plugins</output-path>
+    <root id="archive" name="SpecterAntiAFK.jar">
+      <element id="module-output" name="SpecterAntiAFK" />
+    </root>
+  </artifact>
+</component>

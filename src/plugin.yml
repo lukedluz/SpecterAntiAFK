@@ -1,0 +1,6 @@
+name: SpecterAntiAFK
+main: com.sc4r.SpecterAntiAFK.Main
+version: 1.0
+author: Sc4r
+website: https://specterplugins.com
+commands:

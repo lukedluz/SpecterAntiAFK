@@ -1,0 +1,25 @@
+#   _____                 _                         _   _          ______ _  __
+#  / ____|               | |            /\         | | (_)   /\   |  ____| |/ /
+# | (___  _ __   ___  ___| |_ ___ _ __ /  \   _ __ | |_ _   /  \  | |__  | ' /
+#  \___ \| '_ \ / _ \/ __| __/ _ \ '__/ /\ \ | '_ \| __| | / /\ \ |  __| |  <
+#  ____) | |_) |  __/ (__| ||  __/ | / ____ \| | | | |_| |/ ____ \| |    | . \
+# |_____/| .__/ \___|\___|\__\___|_|/_/    \_\_| |_|\__|_/_/    \_\_|    |_|\_\
+#        | |
+#        |_|
+#
+# Desenvolvedor: Sc4r
+# Discord: Sc4r#0001
+# Versão: 1.0
+# Site: https://specterplugins.com
+# Discord: https://discord.gg/ck6P67CBq2
+#
+
+Mensagens:
+  SaiuAFK: "&cVocê não está mais afk."
+  Holograma: "&eAusente..."
+  Titulo: "&4&lAFK"
+  SubTitulo: "&cVocê está AFK."
+
+Config:
+  Tempo: 1 #Em minutos
+  Altura: 2.0 #Altura do Holograma
